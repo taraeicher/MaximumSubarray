@@ -1,1 +1,1 @@
-# MaximumSubarray
+This C# program implements an efficient algorithm for solving the maximum subarray problem. It measures the time taken for this algorithm to complete for a given run as well as the time taken for the brute force algorithm to complete for the same run.
